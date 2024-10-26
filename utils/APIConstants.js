@@ -1,0 +1,3 @@
+const JSONPLACEHOLDER = process.env.NEXT_PUBLIC_JSONPLACEHOLDER ;
+
+export const GET_TODOS = `${JSONPLACEHOLDER}/todos`
